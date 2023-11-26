@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I am a computer science student at the University of Western Australia.
+- 🌱 I take a great interest in machine learning, AI, data science.
+- ⚡ Specialize in such technologies as Flutter, Android, IOS, React.
+- 🤔 Also curious about Docker, Node.js, Golang.
+
+
 <!--
 **rakkateichou/rakkateichou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
