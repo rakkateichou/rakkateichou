@@ -4,6 +4,7 @@
 - 🌱 I take a great interest in machine learning, AI, data science.
 - ⚡ Specialize in such technologies as Flutter, Android, IOS, React.
 - 🤔 Also curious about Docker, Node.js, Golang.
+- 🌐 Website: rakkade.su
 
 
 <!--
